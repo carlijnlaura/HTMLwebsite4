@@ -1,0 +1,63 @@
+body {
+    font-family: Arial;
+}
+
+
+nav {
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+nav a{
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 5px;
+    border-right:2px solid white;
+    position: center;
+}
+
+div.wrapper {
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+#Article3 {
+    margin-top: 30px;
+    max-width: 45%;
+    float: left;
+}
+
+#Image2 {
+    float: right;
+    margin-top: 30px;
+}
+
+#Image3 {
+    float: right;
+    margin-top: 5px;
+}
+
+#Image4 {
+    float: right;
+    margin-top: 5px;
+}
+
+#Image5 {
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    margin-top: 1000px;
+}
+
+footer a {
+    color:white;
+
+}
